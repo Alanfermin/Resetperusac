@@ -3618,7 +3618,7 @@ small {
     flex-grow: 1;
 }
 .tabs .tab {
-    display: inline-block;
+        display: inline-block;
     line-height: 48px;
     height: 48px;
     padding: 0;
@@ -3626,7 +3626,8 @@ small {
     text-transform: uppercase;
 }
 .tabs .tab a {
-    color: rgba(238, 110, 115, .7);
+    color: #01579b;
+    font-weight: 800;
     display: block;
     width: 100%;
     height: 100%;
@@ -3640,7 +3641,7 @@ small {
 }
 .tabs .tab a.active, .tabs .tab a:hover {
     background-color: transparent;
-    color: #ee6e73;
+    color: black;
 }
 .tabs .tab.disabled a, .tabs .tab.disabled a:hover {
     color: rgba(238, 110, 115, .7);
@@ -3650,7 +3651,7 @@ small {
     position: absolute;
     bottom: 0;
     height: 2px;
-    background-color: #f6b2b5;
+    background-color: black;
     will-change: left, right;
 }
 @media only screen and (max-width:992px) {
@@ -8757,8 +8758,10 @@ figure.effect-duke h2 {
     flex-wrap: wrap;
 }
 .barra {
-    padding-top: 70px;
-    margin-top: -94px;
+    width: 100%;
+    height: 5em;
+    margin-bottom: 2%;
+
 }
 .footercog {
     position: absolute;
@@ -8795,4 +8798,25 @@ figure.effect-duke h2 {
 
 .text-escogernos{
     text-align: justify;
+}
+
+.text_nos_con{
+    text-align: center;
+}
+
+.vigilancia{
+    color: #000000;
+}
+.footer__icon__content.centradito {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.margencito{
+    margin-bottom: 0.5em !important;
+}
+
+.row.topsito {
+    margin-top: 3rem;
 }
