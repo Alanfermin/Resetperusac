@@ -9,7 +9,7 @@
     <meta name="description" content="Servicio técnico Servidor HP reparación , ventas servidores , disco duro , memoria , Racks , Coolers , etc . Ofrecemos limpieza de hardware , configuración , actualizaciones , revisar componentes , recuperación de data">    
     <link rel="stylesheet" href="../css/main.css">
 </head>
-<?php include('header.php');?>
+<?php include('../header.php');?>
     <section class="section banner__principal no-padding " >
         <div class="slider slider__block">
             <ul class="slides slides__services">
@@ -140,4 +140,8 @@
             </div>
         </div>
     </section>
-<?php include('footer.php');?>
+
+
+<?php 
+include('footercont.php');
+include('footer.php');?>
