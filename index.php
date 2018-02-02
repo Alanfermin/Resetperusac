@@ -124,7 +124,7 @@
                                     </div>
                                     <div class="col s12 l6">
                                         <h5 {text-align: center;}>Garantía</h5>
-                                        <p class="text-escogernos">Buscamos garantizar nuestro compromiso al ofrecer nuestros servicios por lo que brindamos medio año de garantía.</p>
+                                        <p class="text-escogernos">Buscamos garantizar nuestro compromiso al ofrecer nuestros servicios por lo que brindamos garantía.</p>
                                     </div>
                                 </div>
                             </div>   
@@ -154,7 +154,7 @@
                                 </div>
                                 <div class="col s12 l6">
                                     <h5 {text-align: center;}>Creatividad</h5>
-                                    <p class="text-escogernos">Tomamos las ideas que tienes para tu negocio, la cotejamos con los requerimientos funcionales y no funcionales para luego materializar tu proyecto.</p> 
+                                    <p class="text-escogernos">Tomamos las ideas que tienes para tu negocio, la cotejamos con los requerimientos para materializar tu proyecto.</p> 
                                 </div>
                             </div>
                         </div>
@@ -195,6 +195,57 @@
                     <div class="row">
                         <h2 class="center-align"><span class="servicios__titulo">SERVICIOS</span></h2>
                         <div class="servicios__content">
+
+                        <div class="row">
+                                <div class="col l4">
+                                    <div class="card servicios__card">
+                                        <div class="card-image waves-effect waves-block waves-light">
+                                        <img class="activator" src="imagenes/soporte-tecnico.jpeg" alt="Soporte tecnico reparaciòn hardware,software,servidores y redes Lima-San Isidro,Perù">
+                                        </div>
+                                        <div class="card-content">
+                                        <span class="card-title activator grey-text text-darken-4">Soporte Técnico<i class="jp-ellipsis-v"></i></span>
+                                        <p><a href="#">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        </div>
+                                        <div class="card-reveal">
+                                        <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Soporte Técnico</h4><i class="jp-times right"></i></span>
+                                        <p>Ofrecemos servicio técnico especializado para todos sus equipos en las atendemos las diversas marcas y modelos de equipos. Mantenimiento Preventivo y Correctivo, atención personalizada, estamos para servirlos con la atención esmerada de nuestra empresa. Soluciones en Hardware para todos sus equipos.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col l4">
+                                        <div class="card servicios__card">
+                                            <div class="card-image waves-effect waves-block waves-light">
+                                            <img class="activator" src="imagenes/marketing-digital.jpeg" alt="Marketing digital, promover tu negocio de manera segura y de confianza.">
+                                            </div>
+                                            <div class="card-content">
+                                            <span class="card-title activator grey-text text-darken-4">Marketing Digital<i class="jp-ellipsis-v"></i></span>
+                                            <p><a href="redes-sociales">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            </div>
+                                            <div class="card-reveal">
+                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Marketing Digital</h4><i class="jp-times right"></i></span>
+                                            <p>Tener una presencia activa es fundamental y obligatoria en Internet, pero sobre todo en las redes sociales. Hoy en día para cualquier tipo de negocio sea pequeña, mediana o una gran empresa las redes sociales se han convertido en una gran herramienta para tener mayor rentabilidad.</p>
+                                            </div>
+                                        </div>
+                                </div>
+                                <div class="col l4">
+                                        <div class="card servicios__card">
+                                            <div class="card-image waves-effect waves-block waves-light">
+                                            <img class="activator" src="imagenes/desarrollo-paginas-web-adaptable.jpeg" alt="Desarrollo de pagians web adaptables y posicionamiento seo .">
+                                            </div>
+                                            <div class="card-content">
+                                            <span class="card-title activator grey-text text-darken-4">Desarrollo de Paginas Web<i class="jp-ellipsis-v"></i></span>
+                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            </div>
+                                            <div class="card-reveal">
+                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Desarrollo de paginas web</h4><i class="jp-times right"></i></span>
+                                            <p>El diseño web es aquel que permite generar mayores ventas ya sea por el atractivo para tus clientes que coincida con la visión de la marca, por lo que desarrollamos una estrategia web de conversión enfocado en generar mayores atracciones para el publico.</p>
+                                            </div>
+                                        </div>
+                                </div>
+                            </div>
+
+
+
                             <div class="row">
                                 <div class="col l4">
                                     <div class="card servicios__card">
