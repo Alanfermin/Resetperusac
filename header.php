@@ -23,6 +23,7 @@
         <div class="menu__principal navbar-fixed ">
             <nav class="menu__principal__nav">
                 <div class="container">
+<<<<<<< HEAD
                     <div class="nav-wrapper">
                             <a href="#" data-activates="slide-out" class="button-collapse"><i class="jp-align-justify Medium"></i></a>
                                 <ul class="left hide-on-med-and-down">
@@ -48,6 +49,32 @@
                     </div>    
                 </div>
             </nav>
+=======
+                <div class="nav-wrapper">
+                <a href="#" data-activates="slide-out" class="button-collapse"><i class="jp-align-justify Medium"></i></a>
+                    <ul class="left hide-on-med-and-down">
+                        <li><a href="/Resetperusac">INICIO</a></li>
+                        <li><a href="nosotros.php">NOSOTROS</a></li>
+                        <li><a href="#" onclick="$('#servicios').animatescroll({scrollSpeed:2000,easing:'easeInOutBack'});" class="menu__principal__ajuste dropdown-button" href="#!" data-activates="dropdown" data-beloworigin="true">SOPORTE TÉCNICO<i class="jp-angle-down"></i></a>
+                            <ul id="dropdown" class="dropdown-content collection">
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soporteserv.php">SERVIDORES</a></li>
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportepc.php">PC - LAPTOP - REDES</a></li>
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportecamaras.php">CAMARAS Y FILMADORAS</a> </li>
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportevig.php">VIDEO VIGILANCIA</a> </li>
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportecel.php">SMARTPHONE - CELULARES</a> </li>
+                                <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportemac.php">APPLE</a> </li>
+                            </ul>
+                        </li>
+                        <li><a href="#" onclick="$('#servicios').animatescroll({scrollSpeed:2000,easing:'easeInOutBack'});" class="menu__principal__ajuste dropdown-button" href="#!" data-activates="dropdown2" data-beloworigin="true">MARKETING DIGITAL<i class="jp-angle-down"></i></a>                                
+                            <ul id="dropdown2" class="dropdown-content collection">
+                                <li><a href="web.php" >DISEÑO WEB</a></li>
+                                <li><a href="redes-sociales" >COMUNITY MANAGER</a></li> 
+                            </ul> 
+                        <li><a href="#" onclick="$('#contactenos').animatescroll({scrollSpeed:2000,easing:'easeInOutBack',padding:66});">CONTÁCTENOS</a></li>
+                    </ul>
+                </div>    
+            </div>
+>>>>>>> master
         </div>
                 <ul id="slide-out" class="side-nav">
                     <li><div class="user-view">

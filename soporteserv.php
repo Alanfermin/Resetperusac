@@ -26,7 +26,11 @@
                             <div class="row section">
                                 <div class="col s12 l6">
                                     <h2>Servidor HP</h2>
+<<<<<<< HEAD
                                     <p class="flow-text">Soporte técncio especializado, disponemos de diversas opciones, donde le podremos ayudar cualquier inconveniencias que se le presente en su servidor ádemas de ventas de equipos, componentes o respuestos servidor HP.</p>
+=======
+                                    <p class="flow-text">Soporte técncio especializado , disponemos de diversas opciones ,donde le podremos ayudar cualquier inconveniencias que se le presente en su servidor ádemas de ventas de equipos , componentes o respuestos servidor HP.</p>
+>>>>>>> master
                                     <div class="left-align">
                                    <!-- <a class="waves-effect waves-light btn-large" href="servicio-tecnico-servidor-hp">Consulte</a>-->
                                     </div>
@@ -45,23 +49,37 @@
                                     <figure class="effect-apollo">
                                         <img src="/Resetperusac/imagenes/servidorlenovo.png" alt="Servidor Lenovo Reset Perú SAC" class="descripcion__img">
                                         <figcaption>
+<<<<<<< HEAD
                                             <a href="#conta">Consulta Aquí</a>
+=======
+                                            <!--<a href="servicio-tecnico-servidor-lenovo">Conocer Más</a>-->
+>>>>>>> master
                                         </figcaption>		
                                     </figure>
                                 </div>
                                 <div class="col s12 l6">
                                     <h2>Servidor Lenovo</h2>
+<<<<<<< HEAD
                                     <p class="flow-text">Soporte técncio especializado, disponemos de diversas opciones, donde le podremos ayudar cualquier inconveniencias que se le presente en su servidor ádemas de ventas de equipos, componentes o respuestos servidor LENOVO.</p>
                                     <div class="left-align">
                                     <a href="#conta">Consulta Aquí</a>
+=======
+                                    <p class="flow-text">Soporte técncio especializado , disponemos de diversas opciones ,donde le podremos ayudar cualquier inconveniencias que se le presente en su servidor ádemas de ventas de equipos , componentes o respuestos servidor LENOVO.</p>
+                                    <div class="left-align">
+                                    <!--<a class="waves-effect waves-light btn-large" href="servicio-tecnico-servidor-lenovo">Consulte</a>-->
+>>>>>>> master
                                     </div>
                                 </div>
                             </div>
                             <div class="row section">
                                 <div class="col s12 l6">
                                     <h2>Otros servidores</h2>
+<<<<<<< HEAD
                                     <p class="flow-text">Servicio técnico hacemos instalación, configuración, actualizaciones, recuperación de data, seguridad informática, backup de data, mantenimiento preventivo y correctivo, etc.</p>
                                     <a href="#conta">Consulta Aquí</a>
+=======
+                                    <p class="flow-text">Servicio técnico hacemos instalación , configuración , actualizaciones , recuperación de data , seguridad informática , backup de data , mantenimiento preventivo y correctivo , etc.</p>
+>>>>>>> master
                                 </div>
                                 <div class="col s12 l6">
                                     <figure class="effect-apollo">
@@ -78,8 +96,12 @@
                                     </figure>
                                 </div>
                                 <div class="col s12 l6">
+<<<<<<< HEAD
                                     <p class="flow-text">Ventas de equipos, componentes o accesorios para cualquier servidor HP, LENOVO, IBM, DEL, ACER, TOSHIBA, ETC.</p>
                                     <a href="#conta">Consulta Aquí</a>
+=======
+                                    <p class="flow-text">Ventas de equipos , componentes o accesorios para cualquier servidor HP ,LENOVO , IBM , DEL , ACER , TOSHIBA , ETC.</p>
+>>>>>>> master
                                 </div>
                             </div>
                         </div>

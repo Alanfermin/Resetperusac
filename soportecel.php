@@ -42,14 +42,22 @@
                     <p class="flow-text">Actualizamos, reinicioamos, o desbloqueamos su esquipo celular con el software mas reciente que pueda soportar a fin de que mejore el rendimiento del mismo.</p>
                 </div>
                 <div class="col s12 l6">
+<<<<<<< HEAD
                     <img src="/resetperusac/imagenes/softwarecel.png">
+=======
+                    <img src="/restperusac/imagenes/softwarecel.png">
+>>>>>>> master
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="container">
                  <div class="col s12 l6">
+<<<<<<< HEAD
                     <img src="/resetperusac/imagenes/hardwarecel.png" class="descripcion__img" alt="Caida al agua celular smatphone" >
+=======
+                    <img src="/restperusac/imagenes/hardwarecel.png" class="descripcion__img" alt="Caida al agua celular smatphone" >
+>>>>>>> master
                 </div>
                 <div class="col s12 l6">
                     <h3 class="center-align">Hardware</h3>
@@ -64,7 +72,11 @@
                     <p class="flow-text">Para que su celular se mantenga rápido y eficiente debe hacerle mantenimiento preventivo por lo menos una vez año por ello nos encargaremos de quitar lo innecesario de su celular</p>
                 </div>
                 <div class="col s12 l6">
+<<<<<<< HEAD
                     <img src="/resetperusac/imagenes/preventivocel.png" class="descripcion__img" alt="Componentes cambio de celulares" >
+=======
+                    <img src="/restperusac/imagenes/preventivocel.png" class="descripcion__img" alt="Componentes cambio de celulares" >
+>>>>>>> master
                 </div>
             </div>
         </div>
@@ -72,7 +84,11 @@
             <div class="container">
                  <div class="col s12 l6">
                     
+<<<<<<< HEAD
                     <img src="/resetperusac/imagenes/pantallacel.png" alt="Software Celulares" class="descripcion__img">
+=======
+                    <img src="/restperusac/imagenes/pantallacel.png" alt="Software Celulares" class="descripcion__img">
+>>>>>>> master
                 </div>
                 <div class="col s12 l6">
                     <h3 class="center-align">Mantenimiento correctivo</h3>
