@@ -15,7 +15,7 @@
             <ul class="slides slides__services">
                 <li>
                     <img src="imagenes/redes-sociales-comunity-manager.jpeg" alt="Redes sociales comunity manager genere mayores ingresos."> 
-                    <div class="caption center-align text-shadow">
+                    <div class="caption center-align text-shadow slides__services__fondo">
                     <h1 class="white-text text-upper">Redes sociales</h1>
                     <p class="light grey-text text-lighten-3 banner__principal__parrafo">Encuentranos en San Isidro,Lima.</p>
                     </div>
@@ -23,20 +23,20 @@
             </ul>
         </div>
     </section>
-    <section class="descripcion no-padding" id="descripcion">
-        <div class="descripcion__content">
+    <section class="redessociales">
+        
             <div class="container">
-                <div class="row descripcion__content__centrar">
+                <div class="row topsito">
+                    <div class= "col s12"><p class="flow-text ">En Reset  Peru SAC nos encargamos   de  gestionar  la marca de su empresa, dando a conocer sus productos y servicios nos preocupamos en  construir, gestionar y administrar la comunidad online alrededor de su marca en Internet, creando y manteniendo relaciones estables y duraderas con sus clientes, sus fans y en general, cualquier usuario interesado en la marca de  su organización tanto para sus productos o servicios. Permítanos ser de  ayuda para brindarle:</p></div> 
                     <div class="col s12 l6">
-                        <p class="descripcion__content__texto">En Reset  Peru SAC nos encargamos   de  gestionar  la marca de su empresa, dando a conocer sus productos y servicios nos preocupamos en  construir, gestionar y administrar la comunidad online alrededor de su marca en Internet, creando y manteniendo relaciones estables y duraderas con sus clientes, sus fans y en general, cualquier usuario interesado en la marca de  su organización tanto para sus productos o servicios. Permítanos ser de  ayuda para brindarle:</p>
                             <ul class="descripcion__content ">
-                                <li class="descripcion__content__detalle">Community Manager.</li>
-                                <li class="descripcion__content__detalle">Administración.</li>
-                                <li class="descripcion__content__detalle">Estrategias.</li>
-                                <li class="descripcion__content__detalle">Publicidad Facebook.</li>
-                                <li class="descripcion__content__detalle">Búsqueda de potenciales clientes.</li>
-                                <li class="descripcion__content__detalle">Estadísticas.</li>
-                                <li class="descripcion__content__detalle">Cursos.</li>
+                                <li class="flow-text servicios__lista__item" >Community Manager.</li>
+                                <li class="flow-text servicios__lista__item" >Administración.</li>
+                                <li class="flow-text servicios__lista__item" >Estrategias.</li>
+                                <li class="flow-text servicios__lista__item" >Publicidad Facebook.</li>
+                                <li class="flow-text servicios__lista__item" >Búsqueda de potenciales clientes.</li>
+                                <li class="flow-text servicios__lista__item" >Estadísticas.</li>
+                                <li class="flow-text servicios__lista__item" >Cursos.</li>
                             </ul>                        
                     </div>
                     <div class="col s12 l6">
@@ -44,6 +44,7 @@
                     </div>
                 </div>
             </div>    
-        </div>
+        
     </section>
+<?php include('footercont.php');?>    
 <?php include('footer.php');?>

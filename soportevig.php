@@ -27,7 +27,6 @@
         <div class="Vigilancia">
             <div class="container"> 
                 <div class="row">
-<<<<<<< HEAD
                     <div class="col s12">
                         <p class="flow-text">Somos una empresa encargada de brindarle soluciones a la medida de sus necesidades y  de  la   distribucion de equipos y soluciones para  CCTV, Video vigilancia ,para su hogar, oficina, negocio y Ofrecemos:</p>
                             
@@ -130,31 +129,10 @@
 
 
                             
-=======
-                    <div class="col s12 l6">
-                        <p>Somos una empresa encargada de brindarle soluciones a la medida de sus necesidades y  de  la   distribucion de equipos y soluciones para  CCTV, Video vigilancia ,para  su hogar, oficina, negocio y Ofrecemos:</p>
-                            <ul class="descripcion__content ">
-                                <li >Soluciones en Hardware y Software.</li>
-                                <li >Servicio Técnico para Camaras  Domo.</li>
-                                <li >Servicio Técnico para Camaras PTZ.</li>
-                                <li >Reparación de Equipos DVR, NVR, UPS.</li>
-                                <li >Reparación de Monitores.</li>
-                                <li >Cableado estructurado.</li>
-                                <li >Instalación de equipos Camaras Domo , Ptz, etc.</li>
-                                <li >Asesoramiento.</li>
-                                <li >Desintalación de equipo</li>
-                                <li >Cambio de Balunes, conectores y cableado</li>
-                                <li >Configuracion para visualizar via Celular, laptop, Pc</li>
-                            </ul>                        
->>>>>>> master
                     </div>
                 </div> 
             </div>
         </div>
     </section>
-<<<<<<< HEAD
 <?php include('footercont.php');?>
-=======
-    
->>>>>>> master
 <?php include('footer.php');?>

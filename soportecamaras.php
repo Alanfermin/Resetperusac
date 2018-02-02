@@ -26,38 +26,9 @@
             </ul>
         </div>
     </section>
-<<<<<<< HEAD
     
 
 
-=======
-    <!--<section class="descripcion no-padding" id="descripcion">
-        <div class="descripcion__content">
-            <div class="container">
-                <div class="row descripcion__content__centrar">
-                    <div class="col s12 l6">
-                        <p class="descripcion__content__texto">Ponemos a  su disposición todo un equipo  técnico  encargado de  brindarle soluciones  para resolver  cualquier necesidad o  problema  con sus  equipo fotográficos y de filmación. Atendemos todos los modelos y marcas de equipo Nikon, Panasonic, Jvc, Canon, GoPro, Sony , Samsung, etc…</p>
-                            <ul class="descripcion__content ">
-                                <p class="descripcion__content__subtitle">Le ofrecemos:</p>
-                                <li class="descripcion__content__detalle">Mantenimiento Preventivo,Correctivo.</li>
-                                <li class="descripcion__content__detalle">Electronica Analogica y Digital .</li>
-                                <li class="descripcion__content__detalle">Cambio de Pantallas.</li>
-                                <li class="descripcion__content__detalle">Cambios de Flex.</li>
-                                <li class="descripcion__content__detalle">Problemas de equipos expuestos al agua(H2O).</li>
-                                <li class="descripcion__content__detalle">Problemas al momento de tomar fotos o filmar.</li>
-                                <li class="descripcion__content__detalle">Imágenes borrosas, oscuras,Problemas con flash,Repuestos y Accesorios.</li>
-                                <li class="descripcion__content__detalle">Reparación de Lentes( Roturas, hongos, golpes, etc).</li>
-                                <li class="descripcion__content__detalle">Soluciones en general.</li>
-                            </ul>                        
-                    </div>
-                    <div class="col s12 l6">
-                            <img src="/Resetperusac/imagenes/camara-reparacion-mantenimiento.jpeg" alt="Reparación de camara y mantenimeitno soluciones general." class="descripcion__img">
-                    </div>
-                </div>
-            </div>    
-        </div>
-    </section>-->
->>>>>>> master
     <section class="no-padding">
         <h2 class="center-align">SERVICIO TÉCNICO CAMARAS</h2>
         <div class="row">
@@ -65,21 +36,13 @@
                     <div class="card">
                         <div class="card-image">
                         <img src="/Resetperusac/imagenes/camara-blackmagic.png" alt="Camara Blackmagic reparación de equipos de fotografia">
-<<<<<<< HEAD
                         <h3 class="card-title servicios__box__shadow">Camara BlackMagic</h3>
-=======
-                        <h3 class="card-title servicios__box__shadow"">Camara BlackMagic</h3>
->>>>>>> master
                         </div>
                         <div class="card-content">
                         <p>Servicio técnico especializado para camaras BlackMagic encuentrenos en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -93,11 +56,7 @@
                         <p>Servicio técnico especializado para camaras Canon nos puede encontrar en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -111,11 +70,7 @@
                         <p>Servicio técnico especializado para camara GoPro Hero nos puede encontrar en San Isidro,Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -131,11 +86,7 @@
                         <p>Servicio técnico especializado para camaras Nikon encuentrenos en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -149,11 +100,7 @@
                         <p>Servicio técnico especializado para Camaras Analógica encuentrenos en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -167,11 +114,7 @@
                         <p>Servicio técnico especializado para Camaras Sony encuentrenos en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
@@ -189,17 +132,12 @@
                         <p>Servicio técnico especializado para las lentes de la camaras encuentrenos en San Isidro, Lima-Péru.</p>
                         </div>
                         <div class="card-action">
-<<<<<<< HEAD
                         <a href="#conta">Contáctanos</a>
-=======
-                        <a href="/Resetperusac/Contacto.php">Contáctanos</a>
->>>>>>> master
                         </div>
                     </div>
                 </div>
         </div>
     </section>
-<<<<<<< HEAD
 
 <script>
 $(document).ready(function (){
@@ -212,7 +150,4 @@ $(document).ready(function (){
 </script>
     
 <?php include('footercont.php'); ?>
-=======
-<?php include ('footercont.php'); ?>
->>>>>>> master
 <?php include('footer.php');?>
