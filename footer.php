@@ -25,8 +25,7 @@
                 </div>
                 <div class="col s12 m6 l3 center-align alinfooter">
                     <div class="footer__icon__content">
-                        <link href="https://file.myfontastic.com/kfCAgGDL3wC9vEf6GDhuDm/icons.css" rel="stylesheet">
-                        <a href="https://api.whatsapp.com/send?phone=51922656684" target="_blank" class="link-whatsapp icon-whatsapp"><i class="jp-whatsapp"></i></a>
+                        <a href="https://api.whatsapp.com/send?phone=51991697142" target="_blank" class="link-whatsapp icon-whatsapp"><i class="jp-whatsapp"></i></a>
                         <h6 class="center text-upper white-text">WHATSAPP</h6>
                         <p class="light">Presione aquí para enviar un whatsapp</p>
                     </div>

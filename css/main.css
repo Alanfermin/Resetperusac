@@ -8779,12 +8779,10 @@ figure.effect-duke h2 {
       color: white;
       transition: all 1s ease;
     }
-.link-whatsapp{
-      text-decoration:none;
-    }
+
         
 .icon-whatsapp:hover{
-      color:black;
+      color:#019875;
       }
 
 .flex{
@@ -8797,7 +8795,7 @@ figure.effect-duke h2 {
 }
 
 .text-escogernos{
-    text-align: justify;
+    text-align:left ;
 }
 
 .text_nos_con{
@@ -8820,3 +8818,12 @@ figure.effect-duke h2 {
 .row.topsito {
     margin-top: 3rem;
 }
+
+.iconws{
+    font-size:9.2rem;
+    color: black;
+    transition: all 1s ease;
+}
+.iconws:hover{
+      color:#019875;
+      }

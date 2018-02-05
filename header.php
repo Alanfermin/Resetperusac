@@ -43,7 +43,7 @@
                                             <li><a href="web.php" >DISEÑO WEB</a></li>
                                             <li><a href="redes-sociales" >COMUNITY MANAGER</a></li> 
                                         </ul> 
-                                    <li><a href="#" onclick="$('#contactenos').animatescroll({scrollSpeed:2000,easing:'easeInOutBack',padding:66});">CONTÁCTENOS</a></li>
+                                    <li><a href="contacto.php">CONTÁCTENOS</a></li>
                                 </ul>
                     </div>    
                 </div>

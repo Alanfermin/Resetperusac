@@ -57,7 +57,7 @@
               <h3 class="card-title servicios__box__shadow">Servicio técnico Laptop</h3>
             </div>
             <div class="card-content">
-              <p>¿Cuenta con fallos en su laptop como la pantalla se encuentra rajada,le ha líquido? ¿Necesita algún programa? Podemos brindarle la solución a sus problemas contáctenos y pronto le resolveremos.</p>
+              <p>Ofrecemos servicios de reparación de laptop, corregimos desde una infección de virus hasta una pantalla o tecla rota. Consulta todos nuestros servicios</p>
             </div>
             
           </div>
