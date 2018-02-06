@@ -7,7 +7,12 @@
     <link rel="shortcut icon" type='image/x-icon' href="imagenes/reset-peru-sac.ico"/>
     <link rel="apple-touch-icon" sizes="57x57" href="imagenes/reset-peru-sac.ico">        
     <title>Reset Perú - Soluciones en software y hardware Lima, San Isidro</title>
+<<<<<<< HEAD
     <meta name="description" content="Contacto, Contáctanos, Reparación ,servicio técnico ,mantenimiento, software, hardware, diseño web, seo, community manager, cursos , asesorias, camara de vigilancia, servidores, robótica">    
+=======
+    <meta name="description" content="Contacto, Contáctanos, Reparación ,servicio técnico ,mantenimiento, software, hardware, diseño web , seo , community manager, cursos , asesorias, camara de vigilancia, servidores, robótica">    
+    <link href="https://www.resetperusac.com" rel="canonical" />
+>>>>>>> master
     <link rel="stylesheet" href="css/main.css">
 </head>
 
@@ -23,14 +28,22 @@
             <div class="container">
               <div class="row">
                  
+<<<<<<< HEAD
                     <div class="col s12 m6 center-align">
+=======
+                    <div class="col s6 center-align">
+>>>>>>> master
                         <div class="baner__inferior">
                             <a href="https://api.whatsapp.com/send?phone=51991697142" target="_blank" class="iconws"><i class="jp-whatsapp"></i></a>
                             <h4 class="center text-upper Black-text">+51 991 697 142</h4> 
                             <!--No pude bajar el iconode ws al número, o subir el numero al ícono-->                            
                         </div>
                     </div>                          
+<<<<<<< HEAD
                     <div class="col s12 m6 center-align">
+=======
+                    <div class="col s6 center-align">
+>>>>>>> master
                         <div class="footer__icon__content">
                             <img src="imagenes/delivery.png">
                             <h4 class="center text-upper Black-text">Servicio Delivery</h4>
@@ -80,5 +93,12 @@
                         </div>    
                     </div>
                 </form> 
+<<<<<<< HEAD
     </section>
 <?php include('footer.php'); ?>
+=======
+
+
+
+    </section>
+>>>>>>> master

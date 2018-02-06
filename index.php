@@ -152,7 +152,11 @@
                                 <div class="col l4">
                                         <div class="card servicios__card">
                                             <div class="card-image waves-effect waves-block waves-light">
+<<<<<<< HEAD
                                             <img class="activator" src="imagenes/store.png" alt="Promovemos tu negocio de manera segura y con confianza.">
+=======
+                                            <img class="activator" src="imagenes/store.png" alt="Marketing digital, promover tu negocio de manera segura y de confianza.">
+>>>>>>> master
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Tiendas Virtuales<i class="jp-ellipsis-v"></i></span>
@@ -401,21 +405,47 @@
             <div class="container">
               <div class="row">
                  
+<<<<<<< HEAD
                     <div class="col s12 m6 center-align">
+=======
+                    <div class="col s6 center-align">
+>>>>>>> master
                         <div class="baner__inferior">
                             <a href="https://api.whatsapp.com/send?phone=51991697142" target="_blank" class="iconws"><i class="jp-whatsapp"></i></a>
                             <h4 class="center text-upper Black-text">+51 991 697 142</h4> 
                             <!--No pude bajar el iconode ws al número, o subir el numero al ícono-->
+<<<<<<< HEAD
                         </div>
                     </div>              
                     <div class="col s12 m6 center-align">
+=======
+                            
+                        </div>
+                    </div>
+                          
+                    <div class="col s6 center-align">
+>>>>>>> master
                         <div class="footer__icon__content">
                             <img src="imagenes/delivery.png">
                             <h4 class="center text-upper Black-text">Servicio Delivery</h4>
                         </div>
                     </div>
+<<<<<<< HEAD
                </div>
             </div>
+=======
+                            
+                                        
+                    
+
+
+
+
+               </div>
+            </div>
+
+
+>>>>>>> master
     </section>
 
 

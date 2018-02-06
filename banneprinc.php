@@ -17,7 +17,11 @@
                         </div>
                 </li>
                 <li>
+<<<<<<< HEAD
                 <img src="imagenes/mkt.png" alt="Marketing Digital creativos,empleando tacticas con herramientas para lanzar campañas publicitarias de cualquier producto o servicio, para generar oportunidad de negocio a través de internet nos encuentra en Lima,San Isidro."> 
+=======
+                <img src="imagenes/redes-sociales-comunity-manager-creatividad.jpg" alt="Marketing Digital creativos,empleando tacticas con herramientas para lanzar campañas publicitarias de cualquier producto o servicio, para generar oportunidad de negocio a través de internet nos encuentra en Lima,San Isidro."> 
+>>>>>>> master
                 <div class="caption center-align text-shadow slides__services__fondo">
                   <h2 class="white-text text-upper">Marketing Digital</h2>
                   <p class="light grey-text text-lighten-3 banner__principal__parrafo">
@@ -33,7 +37,11 @@
                 </div>
               </li>
               <li>
+<<<<<<< HEAD
                 <img src="imagenes/course.png" alt="Brindamos cursos y asesorias que brindan una mejor rentabilidad en su negocio o mejora personal nos pueden encontrar en Lima, San Isidro."> 
+=======
+                <img src="imagenes/course.jpg" alt="Brindamos cursos y asesorias que brindan una mejor rentabilidad en su negocio o mejora personal nos pueden encontrar en Lima, San Isidro."> 
+>>>>>>> master
                 <div class="caption center-align text-shadow slides__services__fondo">
                   <h2 class="white-text text-upper"> Cursos y Asesorias</h2>
                   <p class="light grey-text text-lighten-3 banner__principal__parrafo">Brindamos alternativas de aprendizaje y asesoria personalizado.</p>
