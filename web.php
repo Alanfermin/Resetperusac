@@ -13,7 +13,7 @@
 
 
 
-    <section class="section banner__principal no-padding " >
+    <!--<section class="section banner__principal no-padding " >
         <div class="slider slider__block">
             <ul class="slides slides__services">
                 <li>
@@ -25,7 +25,9 @@
                 </li>
             </ul>
         </div>
-    </section>
+    </section>-->
+	<iframe width="100%" height="850" src="desarrolloweb.php" frameborder="0" allowfullscreen></iframe>
+
 	<section class="no-padding section">
 		<div class="row section">
 			<div class="container"> 

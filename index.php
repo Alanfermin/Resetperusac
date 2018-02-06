@@ -12,80 +12,9 @@
     <link rel="stylesheet" href="css/main.css">
 </head>
 
-<?php include('header.php') ?>
+<?php include('header.php'); ?>
 
-    <section class="section banner__principal no-padding " >
-        <div class="slider slider__block">
-            <ul class="slides slides__services">
-                <li>
-                    <img src="imagenes/soportec.png" alt="soporte técnico instalación, formateo,mantenimiento de equipos, especializado en hardware software atención personalizado en Lima,San Isidro."> 
-                    <div class="caption center-align text-shadow slides__services__fondo">
-
-                      <h2 class="white-text text-upper">Soporte técnico</h2>
-                      <p class="light grey-text text-lighten-3 banner__principal__parrafo">Ofrecemos servicio técnico especializado para todos sus equipos.</p>
-                    </div>
-                </li>
-                <li>
-                    <img src="imagenes/reparapple.png" alt="Apple instalación,reparación,venta de equipos de ultimo modelo,reinstalación de los sistemas operativos para mac,soluciones a la medida en Lima,San Isidro."> 
-                        <div class="caption center-align text-shadow slides__services__fondo">
-                          <h2 class="white-text text-upper">Apple</h2>
-                          <p class="light grey-text text-lighten-3 banner__principal__parrafo">Soporte Técnico en Hardware & Software para todo tipo de equipos Apple - Mac. en Lima.</p>
-                        </div>
-                </li>
-                <li>
-                <img src="imagenes/redes-sociales-comunity-manager-creatividad.jpg" alt="Marketing Digital creativos,empleando tacticas con herramientas para lanzar campañas publicitarias de cualquier producto o servicio, para generar oportunidad de negocio a través de internet nos encuentra en Lima,San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper">Marketing Digital</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">
-                        Creamos contenidos digitales promoviendo a generar mayor trafico de cartera de clientes.
-                  </p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/desarrollo-paginas-web-adaptable.jpeg" alt="Desarrollo de págians web administrables con web adapables a cualquier dispositivos móviles , aplicando tacticas en posicionamiento seo auditoria para una generar un mejor ingreso en el mercado atravez de internet nos encuentras en Lima,San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper">Desarrollo de Páginas Web</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Páginas web modernas con responsive Web Design y SEO.</p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/course.jpg" alt="Brindamos cursos y asesorias que brindan una mejor rentabilidad en su negocio o mejora personal nos pueden encontrar en Lima, San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper"> Cursos y Asesorias</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Brindamos alternativas de aprendizaje y asesoria personalizado.</p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/camara-reparacion-san-isidro.jpeg" alt="Servicio técnico, reparacion, soporte para camaras y filmadoras en Lima, reparacion,partes accesorios en Lima, servicio tecnico en Lima camaras, filmadoras nos pueden encontrar en Lima, San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper ">Cámaras  y Filmadoras</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Estamos en Lima , San Isidro, para ofrecerle soluciones a la medida de sus necesidades. </p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/reparacion-equipos-celulares-smartphone-instalacion-software.jpeg" alt="Reparación de celulares , smartphone en lima, soporte, repuestos de cualquier tipo de celulares nos pueden encontrar en Lima, San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper ">Celulares - Smarthphone </span></h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Servicio Técnico Especializado para todo tipo de Smartphone en Lima, San Isidro.</p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/reparacion-equipos-video-vigilancia-instalacion.jpeg" alt="video vigilancia, dvr, ptz, monitores, cableado, ptz, camaras en lima, dvr soluciones"> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper ">Video Vigilancia</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Ofrecemos todo lo que usted necesite para sus equipos de video vigilancia.</p>
-                </div>
-              </li>
-              <li>
-                <img src="imagenes/robotica-arduino-programacion-aprender-trabajos-san-isidro-lima-peru.jpeg" alt="Construcción de proyectos de robotica con arduino y cursos diversos de aprendizajes enfocado a la robotica para el aprendizaje nos pueden encontrar en Lima,San Isidro."> 
-                <div class="caption center-align text-shadow slides__services__fondo">
-                  <h2 class="white-text text-upper ">Robótica</h2>
-                  <p class="light grey-text text-lighten-3 banner__principal__parrafo">Desarrollamos proyectos de electrónica, robótica , programación y cursos de robótica.</p>
-                </div>
-              </li>
-            </ul>
-        </div>
-    </section>
+<?php include('banneprinc.php'); ?>
     <!-- <section class="no-padding" id="nosotros">
         <div class="nosotros" id="particles-js">
             <div class="row">
@@ -200,45 +129,53 @@
                                 <div class="col l4">
                                     <div class="card servicios__card">
                                         <div class="card-image waves-effect waves-block waves-light">
-                                        <img class="activator" src="imagenes/soporte-tecnico.jpeg" alt="Soporte tecnico reparaciòn hardware,software,servidores y redes Lima-San Isidro,Perù">
+                                        <img class="activator" src="imagenes/redsocial.png" alt="Soporte tecnico reparaciòn hardware,software,servidores y redes Lima-San Isidro,Perù">
                                         </div>
                                         <div class="card-content">
-                                        <span class="card-title activator grey-text text-darken-4">Soporte Técnico<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="#">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <span class="card-title activator grey-text text-darken-4">Redes Sociales<i class="jp-ellipsis-v"></i></span>
+                                        <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
-                                        <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Soporte Técnico</h4><i class="jp-times right"></i></span>
-                                        <p>Ofrecemos servicio técnico especializado para todos sus equipos en las atendemos las diversas marcas y modelos de equipos. Mantenimiento Preventivo y Correctivo, atención personalizada, estamos para servirlos con la atención esmerada de nuestra empresa. Soluciones en Hardware para todos sus equipos.</p>
+                                        <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Redes Sociales</h4><i class="jp-times right"></i></span>
+                                        <ul class="servicios__lista">
+                                            <li class="servicios__lista__item">Gestionamos Perfiles.</li>
+                                            <li class="servicios__lista__item">Creamos anuncios.</li>
+                                            <li class="servicios__lista__item">Segmentamos tus clientes potenciales.</li>
+                                            <li class="servicios__lista__item">Aumentamos tu presencia en línea.</li>
+                                            <li class="servicios__lista__item">Creamos los ADS en tus redes favoritas para obtener clientes potenciales.</li>
+                                            <li class="servicios__lista__item">Creamos planes de crecimiento para tu empresa.</li>
+                                            <li class="servicios__lista__item">Generamos estrategias para fideliza tus clientes.</li>
+                                        </ul>    
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col l4">
                                         <div class="card servicios__card">
                                             <div class="card-image waves-effect waves-block waves-light">
-                                            <img class="activator" src="imagenes/marketing-digital.jpeg" alt="Marketing digital, promover tu negocio de manera segura y de confianza.">
+                                            <img class="activator" src="imagenes/store.png" alt="Promovemos tu negocio de manera segura y con confianza.">
                                             </div>
                                             <div class="card-content">
-                                            <span class="card-title activator grey-text text-darken-4">Marketing Digital<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="redes-sociales">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <span class="card-title activator grey-text text-darken-4">Tiendas Virtuales<i class="jp-ellipsis-v"></i></span>
+                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
-                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Marketing Digital</h4><i class="jp-times right"></i></span>
-                                            <p>Tener una presencia activa es fundamental y obligatoria en Internet, pero sobre todo en las redes sociales. Hoy en día para cualquier tipo de negocio sea pequeña, mediana o una gran empresa las redes sociales se han convertido en una gran herramienta para tener mayor rentabilidad.</p>
+                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Tiendas Virtuales</h4><i class="jp-times right"></i></span>
+                                            <p>Creamos tiendas virtuales en plataformas autoadministrables para que empieces a generar ingresos por medio de la web, aparte lo complementamos con todo el tema de posicionamiento, web SEO y ADS.</p>
                                             </div>
                                         </div>
                                 </div>
                                 <div class="col l4">
                                         <div class="card servicios__card">
                                             <div class="card-image waves-effect waves-block waves-light">
-                                            <img class="activator" src="imagenes/desarrollo-paginas-web-adaptable.jpeg" alt="Desarrollo de pagians web adaptables y posicionamiento seo .">
+                                            <img class="activator" src="imagenes/elearning.png" alt="Desarrollo de pagians web adaptables y posicionamiento seo .">
                                             </div>
                                             <div class="card-content">
-                                            <span class="card-title activator grey-text text-darken-4">Desarrollo de Paginas Web<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <span class="card-title activator grey-text text-darken-4">Aulas Virtuales<i class="jp-ellipsis-v"></i></span>
+                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
-                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Desarrollo de paginas web</h4><i class="jp-times right"></i></span>
-                                            <p>El diseño web es aquel que permite generar mayores ventas ya sea por el atractivo para tus clientes que coincida con la visión de la marca, por lo que desarrollamos una estrategia web de conversión enfocado en generar mayores atracciones para el publico.</p>
+                                            <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Aula Virtuales</h4><i class="jp-times right"></i></span>
+                                            <p>Trabajamos con la plataforma mas usada en cuanto a servicios virtuales de estudios, le implementamos video conferencias, chat, evaluaciones automáticas, sistemas de subir y descargar archivos, actividades innovadoras, sistema de premios, entre otros.</p>
                                             </div>
                                         </div>
                                 </div>
@@ -254,7 +191,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Soporte Técnico<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="#">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="soportepc.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Soporte Técnico</h4><i class="jp-times right"></i></span>
@@ -284,7 +221,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Desarrollo de Paginas Web<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Desarrollo de paginas web</h4><i class="jp-times right"></i></span>
@@ -301,7 +238,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Cursos y Asesorias<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="#">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Cursos y Asesorias</h4> <i class="jp-times right"></i></span>
@@ -318,7 +255,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Cámaras y Filmadoras<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="soporte-tecnico/camaras-filmadoras">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="soportecamaras.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Cámaras y Filmadoras</h4><i class="jp-times right"></i></span>
@@ -355,7 +292,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Celulares - Smartphone<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="soporte-tecnico/reparacion-cambio-de-pantalla-lcd-tactil-smartphone-celulares">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="soportecel.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Celulares - Smartphone</h4><i class="jp-times right"></i></span>
@@ -387,7 +324,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Apple<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="soporte-tecnico/apple-mac-imac-ipod-iphone">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="soportemac.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Apple</h4><i class="jp-times right"></i></span>
@@ -413,7 +350,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Video Vigilancia<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="soporte-tecnico/video-vigilancia">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="soportevig.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Video Vigilancia</h4><i class="jp-times right"></i></span>
@@ -458,6 +395,31 @@
     </section>
 
 
+
+
+<section class="ws">
+            <div class="container">
+              <div class="row">
+                 
+                    <div class="col s12 m6 center-align">
+                        <div class="baner__inferior">
+                            <a href="https://api.whatsapp.com/send?phone=51991697142" target="_blank" class="iconws"><i class="jp-whatsapp"></i></a>
+                            <h4 class="center text-upper Black-text">+51 991 697 142</h4> 
+                            <!--No pude bajar el iconode ws al número, o subir el numero al ícono-->
+                        </div>
+                    </div>              
+                    <div class="col s12 m6 center-align">
+                        <div class="footer__icon__content">
+                            <img src="imagenes/delivery.png">
+                            <h4 class="center text-upper Black-text">Servicio Delivery</h4>
+                        </div>
+                    </div>
+               </div>
+            </div>
+    </section>
+
+
+
    <!-- <section class="no-padding">
         <div class="row informacion">
             <div class="col s12 l4 no-padding">
@@ -471,6 +433,8 @@
             </div>
         </div>
     </section> -->
+
+
 
 <?php include('footercont.php'); ?>
 

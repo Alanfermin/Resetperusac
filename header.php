@@ -41,9 +41,11 @@
                                     <li><a href="#" onclick="$('#servicios').animatescroll({scrollSpeed:2000,easing:'easeInOutBack'});" class="menu__principal__ajuste dropdown-button" href="#!" data-activates="dropdown2" data-beloworigin="true">MARKETING DIGITAL<i class="jp-angle-down"></i></a>                                
                                         <ul id="dropdown2" class="dropdown-content collection">
                                             <li><a href="web.php" >DISEÑO WEB</a></li>
-                                            <li><a href="redes-sociales" >COMUNITY MANAGER</a></li> 
+                                            <li><a href="redes-sociales" >COMUNITY MANAGER</a></li>
+                                            <li><a href="web.php">TIENDAS VIRTUALES</a></li>
+                                            <li><a href="web.php">AULAS VIRTUALES</a></li> 
                                         </ul> 
-                                    <li><a href="#" onclick="$('#contactenos').animatescroll({scrollSpeed:2000,easing:'easeInOutBack',padding:66});">CONTÁCTENOS</a></li>
+                                    <li><a href="contacto.php">CONTÁCTENOS</a></li>
                                 </ul>
                     </div>    
                 </div>
