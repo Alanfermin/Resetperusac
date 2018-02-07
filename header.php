@@ -27,25 +27,25 @@
                             <a href="#" data-activates="slide-out" class="button-collapse"><i class="jp-align-justify Medium"></i></a>
                                 <ul class="left hide-on-med-and-down">
                                     <li><a href="/Resetperusac">INICIO</a></li>
-                                    <li><a href="nosotros.php">NOSOTROS</a></li>
+                                    <li><a href="nosotros">NOSOTROS</a></li>
                                     <li><a href="#" onclick="$('#servicios').animatescroll({scrollSpeed:2000,easing:'easeInOutBack'});" class="menu__principal__ajuste dropdown-button" href="#!" data-activates="dropdown" data-beloworigin="true">SOPORTE TÉCNICO<i class="jp-angle-down"></i></a>
                                         <ul id="dropdown" class="dropdown-content collection">
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soporteserv.php">SERVIDORES</a></li>
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportepc.php">PC - LAPTOP - REDES</a></li>
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportecamaras.php">CAMARAS Y FILMADORAS</a> </li>
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportevig.php">VIDEO VIGILANCIA</a> </li>
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportecel.php">SMARTPHONE - CELULARES</a> </li>
-                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/soportemac.php">APPLE</a> </li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/servicio-tecnico-servidores">SERVIDORES</a></li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/pc-laptop-redes-reparacion-mantenimiento">PC - LAPTOP - REDES</a></li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/camaras-filmadoras">CAMARAS Y FILMADORAS</a> </li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/video-vigilancia">VIDEO VIGILANCIA</a> </li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/servicio-tecnico-smartphone-celulares">SMARTPHONE - CELULARES</a> </li>
+                                            <li class="menu__principal__items__cate"><a class="menu__principal__items__link" href="/Resetperusac/apple-mac-imac-ipod-iphone">APPLE</a> </li>
                                         </ul>
                                     </li>
                                     <li><a href="#" onclick="$('#servicios').animatescroll({scrollSpeed:2000,easing:'easeInOutBack'});" class="menu__principal__ajuste dropdown-button" href="#!" data-activates="dropdown2" data-beloworigin="true">MARKETING DIGITAL<i class="jp-angle-down"></i></a>                                
                                         <ul id="dropdown2" class="dropdown-content collection">
-                                            <li><a href="web.php" >DISEÑO WEB</a></li>
+                                            <li><a href="diseno-web-paginas-web-lima-san-isidro" >DISEÑO WEB</a></li>
                                             <li><a href="redes-sociales" >COMUNITY MANAGER</a></li>
-                                            <li><a href="web.php">TIENDAS VIRTUALES</a></li>
-                                            <li><a href="web.php">AULAS VIRTUALES</a></li> 
+                                            <li><a href="diseno-web-paginas-web-lima-san-isidro">TIENDAS VIRTUALES</a></li>
+                                            <li><a href="diseno-web-paginas-web-lima-san-isidro">AULAS VIRTUALES</a></li> 
                                         </ul> 
-                                    <li><a href="contacto.php">CONTÁCTENOS</a></li>
+                                    <li><a href="contacto">CONTÁCTENOS</a></li>
                                 </ul>
                     </div>    
                 </div>
@@ -60,10 +60,19 @@
                     <a href="#!name"><span class="white-text name">RESET PERU SAC</span></a>
                     <a href="#!email"><span class="white-text email">ralupa@resetperusac.com</span></a>
                     </div></li>
-                    <li><a href="#" onclick="$('#inicio').animatescroll();"><i class="material-icons">apps</i>INICIO</a></li>
-                    <li><a href="/nosotros.php">NOSOTROS</a></li>
-                    <li><a href="#!" onclick="$('#servicios').animatescroll();"><i class="material-icons">important_devices</i>SERVICIOS</a></li>
-                    <li><a class="waves-effect" href="#!" onclick="$('#contactenos').animatescroll();"><i class="material-icons">business_center</i>CONTÁCTENOS</a></li>
+                    <li><a href="index">INICIO</a></li>
+                    <li><a href="nosotros">NOSOTROS</a></li>
+                    <li><a class="waves-effect" href="servicio-tecnico-servidores">SERVIDORES</a></li>
+                    <li><a class="waves-effect" href="pc-laptop-redes-reparacion-mantenimiento">PC-LAPTOP-REDES</a></li>
+                    <li><a class="waves-effect" href="camaras-filmadoras">CAMARAS FILMADORAS</a></li>
+                    <li><a class="waves-effect" href="video-vigilancia">VIDEO VIGILANCIA</a></li>
+                    <li><a class="waves-effect" href="servicio-tecnico-smartphone-celulares">SMARTPHONE-CELULARES</a></li>
+                    <li><a class="waves-effect" href="apple-mac-imac-ipod-iphone">APPLE</a></li>
+                    <li><a class="waves-effect" href="diseno-web-paginas-web-lima-san-isidro">DISEÑO WEB</a></li>
+                    <li><a class="waves-effect" href="diseno-web-paginas-web-lima-san-isidro">COMUNITY MANAGER</a></li>
+                    <li><a class="waves-effect" href="diseno-web-paginas-web-lima-san-isidro">TIENDAS VIRTUALES</a></li>
+                    <li><a class="waves-effect" href="diseno-web-paginas-web-lima-san-isidro">AULAS VIRTUALES</a></li>
+                    <li><a class="waves-effect" href="contacto">CONTÁCTENOS</a></li>
                 </ul>
             
 </header>

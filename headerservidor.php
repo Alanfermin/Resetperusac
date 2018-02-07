@@ -6,8 +6,8 @@
                     <img src="/Resetperusac/imagenes/servidores.jpg" alt="soporte técnico instalación, formateo,mantenimiento de equipos, especializado en hardware software atención personalizado en Lima,San Isidro."> 
                     <div class="caption center-align text-shadow slides__services__fondo">
 
-                      <h2 class="white-text text-upper">Servidores</h2>
-                      <p class="light grey-text text-lighten-3 banner__principal__parrafo">Ofrecemos servicio de Soporte Técnico, Soluciones y Ventas.</p>
+                      <h2 class="hservidor white-text text-upper">Servidores</h2>
+                      <p class="pservidor light grey-text text-lighten-3 banner__principal__parrafo">Ofrecemos servicio de Soporte Técnico, Soluciones y Ventas.</p>
                     </div>
                 </li>
         	</ul>        

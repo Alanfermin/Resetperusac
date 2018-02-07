@@ -15,18 +15,6 @@
 <?php include('header.php'); ?>
 
 <?php include('banneprinc.php'); ?>
-    <!-- <section class="no-padding" id="nosotros">
-        <div class="nosotros" id="particles-js">
-            <div class="row">
-                <div class="container">
-                    <div class="nosotros__content">
-                        <h1 class="nosotros__content__title center-align"><strong>RESET PERU S.A.C</strong></h1>
-                        <p class="nosotros__content__text">Somos una empresa que brindamos soluciones. Entre nuestros servicios contamos con Servicio Técnico, Apple, Filmaciones, Cámara, Filmadoras, Servidores, Laptop, Pc, Redes, Video Vigilancia, Celulares y Smartphone. Agencia digital Páginas Web, SEO, Marketing Digital, Fotografías. Además de Robótica, Cursos y Asesorías.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> -->
     <section class="no-padding" id="escogernos">
         <div class="escogernos__principal">
             <h3 class="center escogernos__title"><span class="escogernos__title__raya">¿POR QUÉ ESCOGERNOS?</span></h3>
@@ -39,7 +27,7 @@
                                     <i class="jp-thumbs-o-up medium"></i>
                                 </div>
                                 <div class="col s12 l6">
-                                    <h5 {text-align: center;}>Especialistas</h5>
+                                    <h5 class="align-center">Especialistas</h5>
                                     <p class="text-escogernos">Ofrecemos servicios profesionales, creando sinergia, integración y eficiente uso de nuestros recursos con los clientes.</p> 
                                 </div>
                             </div>
@@ -52,7 +40,7 @@
                                         <i class="jp-shield medium"></i>
                                     </div>
                                     <div class="col s12 l6">
-                                        <h5 {text-align: center;}>Garantía</h5>
+                                        <h5 class="align-center">Garantía</h5>
                                         <p class="text-escogernos">Buscamos garantizar nuestro compromiso al ofrecer nuestros servicios por lo que brindamos garantía.</p>
                                     </div>
                                 </div>
@@ -65,7 +53,7 @@
                                         <i class="jp-truck medium"></i>
                                     </div>
                                     <div class="col s12 l6">
-                                        <h5 {text-align: center;} >Delivery</h5>
+                                        <h5 class="align-center" >Delivery</h5>
                                         <p class="text-escogernos">Nosotros nos movilizamos por tí. Tu solo debes escoger la fecha y el servicio.</p>
                                     </div>
                                 </div>
@@ -82,7 +70,7 @@
                                     <i class="jp-light-bulb medium"></i>
                                 </div>
                                 <div class="col s12 l6">
-                                    <h5 {text-align: center;}>Creatividad</h5>
+                                    <h5 class="align-center">Creatividad</h5>
                                     <p class="text-escogernos">Tomamos las ideas que tienes para tu negocio, la cotejamos con los requerimientos para materializar tu proyecto.</p> 
                                 </div>
                             </div>
@@ -95,7 +83,7 @@
                                         <i class="jp-check-circle medium"></i>
                                     </div>
                                     <div class="col s12 l6">
-                                        <h5 {text-align: center;}>Trayectoria</h5>
+                                        <h5 class="align-center">Trayectoria</h5>
                                         <p class="text-escogernos">Los años de esfuerzo, constancia y disciplina comprueban nuestra calidad y son nuestros mejores testimonios.</p>
                                     </div>
                                 </div>
@@ -108,7 +96,7 @@
                                         <i class="jp-whatsapp medium"></i>
                                     </div>
                                     <div class="col s12 l6">
-                                        <h5 {text-align: center;}>Comunicación</h5>
+                                        <h5 class="align-center";>Comunicación</h5>
                                         <p class="text-escogernos">Te puedes comunicar con nosotros por medio de whatsapp, correo elecetrónico o en el chat de nuestra página</p>
                                     </div>
                                 </div>
@@ -133,7 +121,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Redes Sociales<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Redes Sociales</h4><i class="jp-times right"></i></span>
@@ -152,15 +140,11 @@
                                 <div class="col l4">
                                         <div class="card servicios__card">
                                             <div class="card-image waves-effect waves-block waves-light">
-<<<<<<< HEAD
                                             <img class="activator" src="imagenes/store.png" alt="Promovemos tu negocio de manera segura y con confianza.">
-=======
-                                            <img class="activator" src="imagenes/store.png" alt="Marketing digital, promover tu negocio de manera segura y de confianza.">
->>>>>>> master
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Tiendas Virtuales<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Tiendas Virtuales</h4><i class="jp-times right"></i></span>
@@ -175,7 +159,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Aulas Virtuales<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Aula Virtuales</h4><i class="jp-times right"></i></span>
@@ -184,9 +168,6 @@
                                         </div>
                                 </div>
                             </div>
-
-
-
                             <div class="row">
                                 <div class="col l4">
                                     <div class="card servicios__card">
@@ -195,7 +176,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Soporte Técnico<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="soportepc.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="pc-laptop-redes-reparacion-mantenimiento">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Soporte Técnico</h4><i class="jp-times right"></i></span>
@@ -225,7 +206,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Desarrollo de Paginas Web<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Desarrollo de paginas web</h4><i class="jp-times right"></i></span>
@@ -242,7 +223,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Cursos y Asesorias<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="web.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="diseno-web-paginas-web-lima-san-isidro">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Cursos y Asesorias</h4> <i class="jp-times right"></i></span>
@@ -259,7 +240,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Cámaras y Filmadoras<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="soportecamaras.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="camaras-filmadoras">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Cámaras y Filmadoras</h4><i class="jp-times right"></i></span>
@@ -296,7 +277,7 @@
                                             </div>
                                             <div class="card-content">
                                             <span class="card-title activator grey-text text-darken-4">Celulares - Smartphone<i class="jp-ellipsis-v"></i></span>
-                                            <p><a href="soportecel.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                            <p><a href="servicio-tecnico-smartphone-celulares">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                             </div>
                                             <div class="card-reveal">
                                             <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Celulares - Smartphone</h4><i class="jp-times right"></i></span>
@@ -328,7 +309,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Apple<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="soportemac.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="soporte-tecnico/apple-mac-imac-ipod-iphone">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Apple</h4><i class="jp-times right"></i></span>
@@ -354,7 +335,7 @@
                                         </div>
                                         <div class="card-content">
                                         <span class="card-title activator grey-text text-darken-4">Video Vigilancia<i class="jp-ellipsis-v"></i></span>
-                                        <p><a href="soportevig.php">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
+                                        <p><a href="video-vigilancia">Conocer más <i class="jp-hand-o-left servicios__icon__link"></i> </a></p>
                                         </div>
                                         <div class="card-reveal">
                                         <span class="card-title grey-text text-darken-4"><h4 class="servicios__subtitle">Video Vigilancia</h4><i class="jp-times right"></i></span>
@@ -397,75 +378,25 @@
                 </div>
         </article>
     </section>
-
-
-
-
 <section class="ws">
             <div class="container">
               <div class="row">
                  
-<<<<<<< HEAD
                     <div class="col s12 m6 center-align">
-=======
-                    <div class="col s6 center-align">
->>>>>>> master
                         <div class="baner__inferior">
                             <a href="https://api.whatsapp.com/send?phone=51991697142" target="_blank" class="iconws"><i class="jp-whatsapp"></i></a>
                             <h4 class="center text-upper Black-text">+51 991 697 142</h4> 
-                            <!--No pude bajar el iconode ws al número, o subir el numero al ícono-->
-<<<<<<< HEAD
                         </div>
                     </div>              
                     <div class="col s12 m6 center-align">
-=======
-                            
-                        </div>
-                    </div>
-                          
-                    <div class="col s6 center-align">
->>>>>>> master
                         <div class="footer__icon__content">
-                            <img src="imagenes/delivery.png">
+                            <img src="imagenes/delivery.png" alt="Delivery en San Isidro">
                             <h4 class="center text-upper Black-text">Servicio Delivery</h4>
                         </div>
                     </div>
-<<<<<<< HEAD
                </div>
             </div>
-=======
-                            
-                                        
-                    
-
-
-
-
-               </div>
-            </div>
-
-
->>>>>>> master
     </section>
-
-
-
-   <!-- <section class="no-padding">
-        <div class="row informacion">
-            <div class="col s12 l4 no-padding">
-                <img src="imagenes/whatssap-reset-peru.png" class="responsive__img__footer" alt="whatsapp reset Perú sac">
-            </div>
-            <div class="col s12 l4 no-padding">
-                <img src="imagenes/delivery-todo-destino-lima-peru-san-isidro.png" class="responsive__img__footer"  alt="Delivery reset Perú sac">
-            </div>
-            <div class="col s12 l4 no-padding">
-                <img src="imagenes/reset-peru-sac-grupo-creativo-software-hardware.jpg" class="responsive__img__footer" alt="Cursos , Asesoria y auditoria encuentranos en Lima-San Isidro,Perù" >
-            </div>
-        </div>
-    </section> -->
-
-
-
 <?php include('footercont.php'); ?>
 
 <?php include('footer.php'); ?>

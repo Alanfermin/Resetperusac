@@ -16,7 +16,7 @@
                 <li>
                     <img src="imagenes/redes-sociales-comunity-manager.jpeg" alt="Redes sociales comunity manager genere mayores ingresos."> 
                     <div class="caption center-align text-shadow slides__services__fondo">
-                    <h1 class="white-text text-upper">Redes sociales</h1>
+                    <h1 class="title_social white-text text-upper">Redes sociales</h1>
                     <p class="light grey-text text-lighten-3 banner__principal__parrafo">Encuentranos en San Isidro,Lima.</p>
                     </div>
                 </li>
